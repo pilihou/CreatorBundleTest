@@ -1,5 +1,5 @@
 # CocosCreator Bundle Test
-
+Cocos Creator 大厅+子游戏，从入门到进阶！
 这是一个关于CocosCreator 2.4.5版本的Bundle特性测试例子。
 
 ## 预览例子
